@@ -1,0 +1,21 @@
+table {
+    
+    border-collapse: collapse;
+   border-spacing: 0px;
+}
+
+
+td {
+    
+    border: 3px solid black;
+}
+
+#td2 {
+    width: 15%;
+}
+
+#profil {
+
+    width: 300px;
+    
+}
